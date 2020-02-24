@@ -1,4 +1,4 @@
-# GT_Sports_Hackathon
+# TickEngage
 This is a repo for GT sports hackathon to predict the Game Attendance. 
 # Team
 Rui Jia (Georgia Tech) <br />
